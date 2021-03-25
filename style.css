@@ -463,7 +463,7 @@ input[placeholder] {
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
 	#msform .action-button {
-		max-width: 150px;
+		max-width: 70px;
 		border: solid 1px #DE6A35;
 		background-color: #de5514;
 		font-weight: bold;
@@ -472,5 +472,19 @@ input[placeholder] {
 		cursor: pointer;
 		padding: 20px 5px;
 		margin: 30px 5px 10px 5px;
+	}
+	div.intro {
+		background: rgb(175, 12, 12);
+		transform: scale (.75);
+		border: 0 none;
+		border-radius: 3px;
+		box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+		padding: 20px 30px;
+		width: 80%;
+		margin: 0 10%;
+		
+		/*stacking fieldsets above each other*/
+		position: absolute;
+		z-index: 1000;
 	}
 }
