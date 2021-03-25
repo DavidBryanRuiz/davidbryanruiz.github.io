@@ -469,4 +469,19 @@ input[placeholder] {
 		text-align: center;
 		position: relative;
 	}
+	div.intro {
+		background: white;
+		border: 0 none;
+		border-radius: 3px;
+		box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+		padding: 20px 30px;
+		width: 80%;
+		height: max-content;
+		margin: 0 10%;
+		
+		/*stacking fieldsets above each other*/
+		position: absolute;
+		z-index: 1000;
+	}
+	
 }
