@@ -476,7 +476,7 @@ input[placeholder] {
 		box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
 		padding: 20px 30px;
 		width: 80%;
-		margin: 0 30%;
+		margin: 0 25%;
 		
 		/*stacking fieldsets above each other*/
 		position: absolute;
