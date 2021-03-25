@@ -463,11 +463,11 @@ input[placeholder] {
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
 	#msform {
-		width: 350px;
+		width: 90%;
 		height: 500px;
 		margin: 7px auto;
 		text-align: center;
-		position: fixed;
+		position: relative;
 	}
 	div.intro {
 		background: white;
