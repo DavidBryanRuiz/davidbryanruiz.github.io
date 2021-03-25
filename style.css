@@ -465,10 +465,10 @@ input[placeholder] {
 	#msform .action-button {
 		max-width: 70px;
 		border: solid 1px #DE6A35;
-		background-color: #de5514;
+		background-color: #5114de;
 		font-weight: bold;
 		color: white;
-		border-radius: 3px;
+		border-radius: 6px;
 		cursor: pointer;
 		padding: 20px 5px;
 		margin: 30px 5px 10px 5px;
