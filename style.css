@@ -475,7 +475,7 @@ input[placeholder] {
 	}
 	div.intro {
 		background: rgb(175, 12, 12);
-		transform: scale (.75);
+		transform: scale(.75);
 		border: 0 none;
 		border-radius: 3px;
 		box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
