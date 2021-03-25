@@ -467,7 +467,7 @@ input[placeholder] {
 		height: 500px;
 		margin: 7px auto;
 		text-align: center;
-		position: relative;
+		position: fixed;
 	}
 	div.intro {
 		background: white;
