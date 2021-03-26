@@ -479,6 +479,7 @@ input[placeholder] {
 		border: 0 none;
 		border-radius: 3px;
 		box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+		padding: px 30px;
 		width: 80%;
 		margin: 0 6%;
 		
@@ -486,5 +487,11 @@ input[placeholder] {
 		position: absolute;
 		z-index: 1000;
 	}
+	html, body {
+		overflow-x: hidden;
+	  }
+	  body {
+		position: relative
+	  }
 	
 }
