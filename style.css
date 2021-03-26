@@ -501,5 +501,8 @@ input[placeholder] {
 		text-align: center;
 		position: relative;
 	}
+	html {
+		height: 10%;
+		background: #4B99BD;
+	}
 	  }
-}
